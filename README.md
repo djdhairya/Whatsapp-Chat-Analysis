@@ -11,3 +11,10 @@ WhatsApp chat analysis involves the examination and interpretation of conversati
 8. Business Intelligence: Businesses can use WhatsApp chat analysis for market research, customer feedback, and product improvement. Analyzing customer inquiries and feedback helps in tailoring products and services to meet customer needs.
 9. Data Privacy Considerations: While performing WhatsApp chat analysis, it is essential to respect user privacy and comply with data protection regulations. Anonymization and encryption are important aspects to consider to safeguard user information.
 10. Tools and Technologies: Various tools and technologies, including natural language processing (NLP), machine learning algorithms, and data visualization tools, are often employed for efficient and insightful WhatsApp chat analysis.
+
+![Screenshot 2024-01-23 180043](https://github.com/djdhairya/Whatsapp-Chat-Analysis/assets/99894946/7e0c4f28-3e44-4220-954e-3598ef3ee9a7)
+
+![Screenshot 2024-01-23 180103](https://github.com/djdhairya/Whatsapp-Chat-Analysis/assets/99894946/9a1d36b9-834f-4a26-afa2-2ec3eec8b1a6)
+and so on...
+
+
